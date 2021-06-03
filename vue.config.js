@@ -22,7 +22,7 @@ module.exports = {
    * for example GitHub Pages. If you plan to deploy your site to https://foo.github.io/bar/,
    * then publicPath should be set to "/bar/".
    * In most cases please use '/' !!!
-   * Detail: https://cli.vuejs.org/config/#publicpath
+   * Detail: https://cli.vuejs.org/config/#publicpath             1
    */
   publicPath: '/',
   outputDir: 'dist',
